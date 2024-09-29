@@ -1,4 +1,3 @@
-# image recognition project using the Imagga Cloud API
 
 # Image Recognition using Imagga Cloud API
 
