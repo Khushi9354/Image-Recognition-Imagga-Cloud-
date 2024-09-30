@@ -4,7 +4,7 @@
 This project demonstrates how to use the **Imagga Cloud API** for image recognition and tagging. It retrieves tags for a given image URL and prints them to the console.
 
 <p align="center">
-<img src="">
+<img src="https://github.com/Khushi9354/Image-Recognition-Imagga-Cloud-/blob/2db83570e4d8961e6dc3f6511e76fc4ef36545e0/input%20image.jpg">
   </p>
 
 ## Features
