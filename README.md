@@ -41,3 +41,9 @@ Imagga API Documentation
 
 Interested in the full code? Check it out here:
 https://github.com/Khushi9354/Image-Recognition-Imagga-Cloud-/blob/08230fd170f72c3b4d80c8e9004be2bdb131d7ff/Image%20Recognition(Imagga%20Cloud).py
+
+#Here's the output of the script after processing the image:
+
+<p align="center">
+<img src="">
+  </p>
