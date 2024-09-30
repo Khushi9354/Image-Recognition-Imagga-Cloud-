@@ -45,5 +45,5 @@ https://github.com/Khushi9354/Image-Recognition-Imagga-Cloud-/blob/08230fd170f72
 #Here's the output of the script after processing the image:
 
 <p align="center">
-<img src="">
+<img src="https://github.com/Khushi9354/Image-Recognition-Imagga-Cloud-/blob/11e2bcd7e0a83d7e59a681fcbd4a45800a1b925a/recognised%20img.jpg">
   </p>
